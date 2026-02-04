@@ -44,7 +44,7 @@ let CONFIG = {
   apiKeys: [],
   baseUrl: 'https://api.airfranceklm.com/opendata',
   pageSize: 100,
-  requestDelay: 1100,
+  requestDelay: 5000,
   catalogPath: null,
   airlineCode: null,
 };
