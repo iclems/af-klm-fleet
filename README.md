@@ -9,14 +9,14 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | Airline | Total | 📶 WiFi | 🛜 High-Speed | % Starlink |
 |---------|-------|---------|---------------|------------|
 | 🇫🇷 Air France | 222 | 222 (100%) | 61 | **27%** |
-| 🇳🇱 KLM | 122 | 98 (80%) | 0 | **0%** |
-| **Combined** | **344** | **320 (93%)** | **61** | **18%** |
+| 🇳🇱 KLM | 123 | 99 (80%) | 0 | **0%** |
+| **Combined** | **345** | **321 (93%)** | **61** | **18%** |
 
 
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-03-01*
+*Last updated: 2026-03-08*
 
 ---
 
@@ -47,13 +47,13 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 777-300ER | 16 |
 | 777-200-200ER | 15 |
 | 787-10 | 15 |
+| A321NEO | 13 |
 | 787-9 | 13 |
-| A321NEO | 12 |
 | A330-200 | 6 |
 | 737-700 | 6 |
 | A330-300 | 5 |
 | 737-900 | 5 |
-| **Total** | **122** |
+| **Total** | **123** |
 
 
 
@@ -65,11 +65,9 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Aircraft | Config | Seats | Count | 🛜 Starlink |
 |----------|--------|-------|-------|-------------|
-| 777-200-200ER | `J028W032Y268` | 328 | 17 | - |
-| 777-200-200ER | `J28W32Y268` | 328 | 1 | - |
-| 777-300ER | `J014W028Y430` | 472 | 11 | - |
+| 777-200-200ER | `J028W032Y268` | 328 | 18 | - |
+| 777-300ER | `J014W028Y430` | 472 | 12 | - |
 | 777-300ER | `J048W048Y273` | 369 | 8 | - |
-| 777-300ER | `J14W28Y430` | 472 | 1 | - |
 | 777-300ER | `P004J058W028Y206` | 296 | 13 | 2/13 (15%) |
 | 777-300ER | `P004J060W044Y204` | 312 | 9 | 3/9 (33%) |
 | 777-300ER | `P4J58W28Y206` | 292 | 1 | - |
@@ -98,15 +96,13 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 737-900 | `C056M132` | 188 | 5 | - |
 | 777-200-200ER | `C035W024M229` | 288 | 7 | - |
 | 777-200-200ER | `C035W032M219` | 286 | 8 | - |
-| 777-300ER | `C035W024M322` | 381 | 15 | - |
-| 777-300ER | `C35W24M322` | 381 | 1 | - |
+| 777-300ER | `C035W024M322` | 381 | 16 | - |
 | 787-10 | `C038W028M252` | 318 | 15 | - |
 | 787-9 | `C030W021M224` | 275 | 12 | - |
 | 787-9 | `C30W21M224` | 275 | 1 | - |
-| A321NEO | `C030M197` | 227 | 12 | - |
+| A321NEO | `C030M197` | 227 | 13 | - |
 | A330-200 | `C018M246` | 264 | 6 | - |
-| A330-300 | `C030M262` | 292 | 4 | - |
-| A330-300 | `C30M262` | 292 | 1 | - |
+| A330-300 | `C030M262` | 292 | 5 | - |
 
 
 
