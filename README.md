@@ -9,14 +9,14 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | Airline | Total | 📶 WiFi | 🛜 High-Speed | % Starlink |
 |---------|-------|---------|---------------|------------|
 | 🇫🇷 Air France | 222 | 222 (100%) | 62 | **28%** |
-| 🇳🇱 KLM | 124 | 100 (81%) | 0 | **0%** |
-| **Combined** | **346** | **322 (93%)** | **62** | **18%** |
+| 🇳🇱 KLM | 125 | 101 (81%) | 0 | **0%** |
+| **Combined** | **347** | **323 (93%)** | **62** | **18%** |
 
 
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-03-22*
+*Last updated: 2026-03-29*
 
 ---
 
@@ -45,15 +45,15 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 |---------------|-------|
 | 737-800 | 29 |
 | 777-300ER | 16 |
+| A321NEO | 15 |
 | 777-200-200ER | 15 |
 | 787-10 | 15 |
-| A321NEO | 14 |
 | 787-9 | 13 |
 | A330-200 | 6 |
 | 737-700 | 6 |
 | A330-300 | 5 |
 | 737-900 | 5 |
-| **Total** | **124** |
+| **Total** | **125** |
 
 
 
@@ -93,12 +93,12 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 737-700 | `C036M106` | 142 | 6 | - |
 | 737-800 | `C036M150` | 186 | 29 | - |
 | 737-900 | `C056M132` | 188 | 5 | - |
-| 777-200-200ER | `C035W024M229` | 288 | 3 | - |
-| 777-200-200ER | `C035W032M219` | 286 | 12 | - |
+| 777-200-200ER | `C035W024M229` | 288 | 1 | - |
+| 777-200-200ER | `C035W032M219` | 286 | 14 | - |
 | 777-300ER | `C035W024M322` | 381 | 16 | - |
 | 787-10 | `C038W028M252` | 318 | 15 | - |
 | 787-9 | `C030W021M224` | 275 | 13 | - |
-| A321NEO | `C030M197` | 227 | 14 | - |
+| A321NEO | `C030M197` | 227 | 15 | - |
 | A330-200 | `C018M246` | 264 | 6 | - |
 | A330-300 | `C030M262` | 292 | 5 | - |
 
