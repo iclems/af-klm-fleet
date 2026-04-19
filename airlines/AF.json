@@ -6,8 +6,8 @@
     "name": "Air France",
     "country": "FR"
   },
-  "generated_at": "2026-04-12T04:00:36.636Z",
-  "aircraft_count": 223,
+  "generated_at": "2026-04-19T04:00:36.791Z",
+  "aircraft_count": 224,
   "aircraft": [
     {
       "registration": "FHOZA",
@@ -45,8 +45,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-02",
-        "last_seen": "2026-04-12",
-        "total_flights": 3467
+        "last_seen": "2026-04-19",
+        "total_flights": 3468
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -105,8 +105,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-31",
-        "last_seen": "2026-04-12",
-        "total_flights": 189
+        "last_seen": "2026-04-19",
+        "total_flights": 190
       },
       "metadata": {
         "created_at": "2026-01-30 15:03:29",
@@ -165,8 +165,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-21",
-        "last_seen": "2026-04-12",
-        "total_flights": 3500
+        "last_seen": "2026-04-19",
+        "total_flights": 3501
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -225,8 +225,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-02-22",
-        "last_seen": "2026-04-12",
-        "total_flights": 7
+        "last_seen": "2026-04-19",
+        "total_flights": 8
       },
       "metadata": {
         "created_at": "2026-02-22T05:00:36.087Z",
@@ -299,8 +299,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-04-05",
-        "last_seen": "2026-04-12",
-        "total_flights": 2
+        "last_seen": "2026-04-19",
+        "total_flights": 3
       },
       "metadata": {
         "created_at": "2026-04-05T04:00:36.506Z",
@@ -322,6 +322,51 @@
           "source": "airline_api"
         }
       ]
+    },
+    {
+      "registration": "FHOZF",
+      "icao24": null,
+      "aircraft_type": {
+        "iata_code": "223",
+        "icao_code": null,
+        "manufacturer": "Airbus",
+        "model": "A220",
+        "variant": "300",
+        "full_name": "AIRBUS A220-300 PASSENGER"
+      },
+      "operator": {
+        "sub_fleet_code": "CA",
+        "cabin_crew_employer": "AF",
+        "cockpit_crew_employer": "AF"
+      },
+      "cabin": {
+        "physical_configuration": "Y148",
+        "saleable_configuration": null,
+        "total_seats": 148,
+        "classes": {
+          "first": 0,
+          "business": 0,
+          "premium_economy": 0,
+          "economy": 148
+        },
+        "freight_configuration": null
+      },
+      "connectivity": {
+        "wifi": "low-speed",
+        "wifi_provider": null,
+        "satellite": true
+      },
+      "status": "active",
+      "tracking": {
+        "first_seen": "2026-04-19",
+        "last_seen": "2026-04-19",
+        "total_flights": 1
+      },
+      "metadata": {
+        "created_at": "2026-04-19T04:00:36.783Z",
+        "updated_at": "2026-04-19T04:00:36.783Z"
+      },
+      "history": []
     },
     {
       "registration": "FHPNA",
@@ -359,8 +404,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2937
+        "last_seen": "2026-04-19",
+        "total_flights": 2938
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -449,8 +494,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3465
+        "last_seen": "2026-04-19",
+        "total_flights": 3466
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -494,8 +539,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3256
+        "last_seen": "2026-04-19",
+        "total_flights": 3257
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -539,8 +584,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-16",
-        "last_seen": "2026-04-12",
-        "total_flights": 3465
+        "last_seen": "2026-04-19",
+        "total_flights": 3466
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -584,8 +629,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3556
+        "last_seen": "2026-04-19",
+        "total_flights": 3557
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -749,8 +794,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3588
+        "last_seen": "2026-04-19",
+        "total_flights": 3589
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -794,8 +839,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2997
+        "last_seen": "2026-04-19",
+        "total_flights": 2998
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -854,8 +899,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3524
+        "last_seen": "2026-04-19",
+        "total_flights": 3525
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -914,8 +959,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1367
+        "last_seen": "2026-04-19",
+        "total_flights": 1368
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:52",
@@ -974,8 +1019,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1338
+        "last_seen": "2026-04-19",
+        "total_flights": 1339
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -1034,8 +1079,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2706
+        "last_seen": "2026-04-19",
+        "total_flights": 2707
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:54",
@@ -1094,8 +1139,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2096
+        "last_seen": "2026-04-19",
+        "total_flights": 2097
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1154,8 +1199,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 3055
+        "last_seen": "2026-04-19",
+        "total_flights": 3056
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1214,8 +1259,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3109
+        "last_seen": "2026-04-19",
+        "total_flights": 3110
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1274,8 +1319,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3694
+        "last_seen": "2026-04-19",
+        "total_flights": 3695
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -1334,8 +1379,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3536
+        "last_seen": "2026-04-19",
+        "total_flights": 3537
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1394,8 +1439,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3074
+        "last_seen": "2026-04-19",
+        "total_flights": 3075
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1454,8 +1499,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1667
+        "last_seen": "2026-04-19",
+        "total_flights": 1668
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:52",
@@ -1514,8 +1559,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2422
+        "last_seen": "2026-04-19",
+        "total_flights": 2423
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:58",
@@ -1559,8 +1604,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3231
+        "last_seen": "2026-04-19",
+        "total_flights": 3232
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -1604,8 +1649,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 149
+        "last_seen": "2026-04-19",
+        "total_flights": 150
       },
       "metadata": {
         "created_at": "2026-01-30 15:03:27",
@@ -1664,8 +1709,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 1569
+        "last_seen": "2026-04-19",
+        "total_flights": 1570
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1747,21 +1792,36 @@
         "freight_configuration": "PP000LL000"
       },
       "connectivity": {
-        "wifi": "low-speed",
-        "wifi_provider": null,
+        "wifi": "high-speed",
+        "wifi_provider": "Starlink",
         "satellite": true
       },
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 3832
+        "last_seen": "2026-04-19",
+        "total_flights": 3833
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
-        "updated_at": "2026-02-04 21:04:53"
+        "updated_at": "2026-04-19T04:00:36.785Z"
       },
-      "history": []
+      "history": [
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi",
+          "old_value": "low-speed",
+          "new_value": "high-speed",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi_provider",
+          "old_value": null,
+          "new_value": "Starlink",
+          "source": "airline_api"
+        }
+      ]
     },
     {
       "registration": "FHZUH",
@@ -1799,8 +1859,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 1386
+        "last_seen": "2026-04-19",
+        "total_flights": 1387
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1919,8 +1979,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2764
+        "last_seen": "2026-04-19",
+        "total_flights": 2765
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -1964,8 +2024,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3012
+        "last_seen": "2026-04-19",
+        "total_flights": 3013
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -2009,8 +2069,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3247
+        "last_seen": "2026-04-19",
+        "total_flights": 3248
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -2054,8 +2114,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3368
+        "last_seen": "2026-04-19",
+        "total_flights": 3369
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -2099,8 +2159,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 3121
+        "last_seen": "2026-04-19",
+        "total_flights": 3122
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:52",
@@ -2144,8 +2204,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-02-04",
-        "last_seen": "2026-04-12",
-        "total_flights": 39
+        "last_seen": "2026-04-19",
+        "total_flights": 40
       },
       "metadata": {
         "created_at": "2026-02-02 23:05:34",
@@ -2249,8 +2309,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 921
+        "last_seen": "2026-04-19",
+        "total_flights": 922
       },
       "metadata": {
         "created_at": "2026-01-30 15:03:28",
@@ -2294,8 +2354,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-09",
-        "last_seen": "2026-04-12",
-        "total_flights": 2927
+        "last_seen": "2026-04-19",
+        "total_flights": 2928
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -2354,8 +2414,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 14
+        "last_seen": "2026-04-19",
+        "total_flights": 15
       },
       "metadata": {
         "created_at": "2026-01-30 16:29:53",
@@ -2414,8 +2474,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 86
+        "last_seen": "2026-04-19",
+        "total_flights": 87
       },
       "metadata": {
         "created_at": "2026-01-30 16:07:46",
@@ -2474,8 +2534,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3097
+        "last_seen": "2026-04-19",
+        "total_flights": 3098
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -2519,8 +2579,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3535
+        "last_seen": "2026-04-19",
+        "total_flights": 3536
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -2564,8 +2624,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 2275
+        "last_seen": "2026-04-19",
+        "total_flights": 2276
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -2609,8 +2669,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 637
+        "last_seen": "2026-04-19",
+        "total_flights": 638
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:53",
@@ -2699,8 +2759,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3877
+        "last_seen": "2026-04-19",
+        "total_flights": 3878
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -2744,8 +2804,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3024
+        "last_seen": "2026-04-19",
+        "total_flights": 3025
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -2879,8 +2939,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-28",
-        "last_seen": "2026-04-05",
-        "total_flights": 3898
+        "last_seen": "2026-04-19",
+        "total_flights": 3899
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -2924,8 +2984,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-03-01",
-        "last_seen": "2026-04-12",
-        "total_flights": 7
+        "last_seen": "2026-04-19",
+        "total_flights": 8
       },
       "metadata": {
         "created_at": "2026-03-01T05:00:36.097Z",
@@ -2969,8 +3029,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3200
+        "last_seen": "2026-04-19",
+        "total_flights": 3201
       },
       "metadata": {
         "created_at": "2026-01-30 14:32:28",
@@ -3014,8 +3074,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2599
+        "last_seen": "2026-04-19",
+        "total_flights": 2600
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -3104,8 +3164,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 2553
+        "last_seen": "2026-04-19",
+        "total_flights": 2554
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -3149,8 +3209,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-30",
-        "last_seen": "2026-04-12",
-        "total_flights": 2212
+        "last_seen": "2026-04-19",
+        "total_flights": 2213
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -3194,8 +3254,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3053
+        "last_seen": "2026-04-19",
+        "total_flights": 3054
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -3239,8 +3299,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 646
+        "last_seen": "2026-04-19",
+        "total_flights": 647
       },
       "metadata": {
         "created_at": "2026-01-30 16:07:47",
@@ -3284,8 +3344,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2346
+        "last_seen": "2026-04-19",
+        "total_flights": 2347
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -3374,8 +3434,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 3381
+        "last_seen": "2026-04-19",
+        "total_flights": 3382
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:52",
@@ -3419,8 +3479,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2846
+        "last_seen": "2026-04-19",
+        "total_flights": 2847
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:52",
@@ -3464,8 +3524,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 3666
+        "last_seen": "2026-04-19",
+        "total_flights": 3667
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -3509,8 +3569,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2497
+        "last_seen": "2026-04-19",
+        "total_flights": 2498
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -3554,8 +3614,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 80
+        "last_seen": "2026-04-19",
+        "total_flights": 81
       },
       "metadata": {
         "created_at": "2026-01-30 16:07:45",
@@ -3599,8 +3659,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1340
+        "last_seen": "2026-04-19",
+        "total_flights": 1341
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -3644,8 +3704,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3020
+        "last_seen": "2026-04-19",
+        "total_flights": 3021
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -3749,8 +3809,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2109
+        "last_seen": "2026-04-19",
+        "total_flights": 2110
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -3794,8 +3854,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3776
+        "last_seen": "2026-04-19",
+        "total_flights": 3777
       },
       "metadata": {
         "created_at": "2026-01-30 14:32:28",
@@ -3839,8 +3899,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 121
+        "last_seen": "2026-04-19",
+        "total_flights": 122
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -3884,8 +3944,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3837
+        "last_seen": "2026-04-19",
+        "total_flights": 3838
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -3929,8 +3989,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 4299
+        "last_seen": "2026-04-19",
+        "total_flights": 4300
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -3974,8 +4034,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 4247
+        "last_seen": "2026-04-19",
+        "total_flights": 4248
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -4019,8 +4079,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2753
+        "last_seen": "2026-04-19",
+        "total_flights": 2754
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -4169,8 +4229,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2956
+        "last_seen": "2026-04-19",
+        "total_flights": 2957
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -4214,8 +4274,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2807
+        "last_seen": "2026-04-19",
+        "total_flights": 2808
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -4259,8 +4319,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3006
+        "last_seen": "2026-04-19",
+        "total_flights": 3007
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -4349,8 +4409,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2840
+        "last_seen": "2026-04-19",
+        "total_flights": 2841
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -4394,8 +4454,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1951
+        "last_seen": "2026-04-19",
+        "total_flights": 1952
       },
       "metadata": {
         "created_at": "2026-01-30 15:03:34",
@@ -4439,8 +4499,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-12",
-        "last_seen": "2026-04-12",
-        "total_flights": 84
+        "last_seen": "2026-04-19",
+        "total_flights": 85
       },
       "metadata": {
         "created_at": "2026-01-30 15:03:30",
@@ -4484,8 +4544,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3805
+        "last_seen": "2026-04-19",
+        "total_flights": 3806
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -4709,8 +4769,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1842
+        "last_seen": "2026-04-19",
+        "total_flights": 1843
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -4754,8 +4814,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2615
+        "last_seen": "2026-04-19",
+        "total_flights": 2616
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -4799,8 +4859,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 3361
+        "last_seen": "2026-04-19",
+        "total_flights": 3362
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -4889,8 +4949,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2707
+        "last_seen": "2026-04-19",
+        "total_flights": 2708
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -4934,8 +4994,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-09",
-        "last_seen": "2026-04-12",
-        "total_flights": 2990
+        "last_seen": "2026-04-19",
+        "total_flights": 2991
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -4979,8 +5039,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2441
+        "last_seen": "2026-04-19",
+        "total_flights": 2442
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -5024,8 +5084,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 341
+        "last_seen": "2026-04-19",
+        "total_flights": 342
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:59",
@@ -5069,8 +5129,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 2937
+        "last_seen": "2026-04-19",
+        "total_flights": 2938
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -5204,8 +5264,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 17
+        "last_seen": "2026-04-19",
+        "total_flights": 18
       },
       "metadata": {
         "created_at": "2026-01-30 16:30:58",
@@ -5249,8 +5309,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 915
+        "last_seen": "2026-04-19",
+        "total_flights": 916
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -5294,8 +5354,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1193
+        "last_seen": "2026-04-19",
+        "total_flights": 1194
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -5474,8 +5534,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 28
+        "last_seen": "2026-04-19",
+        "total_flights": 29
       },
       "metadata": {
         "created_at": "2026-01-30 16:16:28",
@@ -5519,8 +5579,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 971
+        "last_seen": "2026-04-19",
+        "total_flights": 972
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -5564,8 +5624,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-02-05",
-        "last_seen": "2026-04-05",
-        "total_flights": 29
+        "last_seen": "2026-04-19",
+        "total_flights": 30
       },
       "metadata": {
         "created_at": "2026-02-04 00:03:05",
@@ -5624,8 +5684,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 649
+        "last_seen": "2026-04-19",
+        "total_flights": 650
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -5774,8 +5834,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 925
+        "last_seen": "2026-04-19",
+        "total_flights": 926
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:52",
@@ -5819,8 +5879,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 876
+        "last_seen": "2026-04-19",
+        "total_flights": 877
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -5864,8 +5924,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1106
+        "last_seen": "2026-04-19",
+        "total_flights": 1107
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:22",
@@ -5909,8 +5969,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 59
+        "last_seen": "2026-04-19",
+        "total_flights": 60
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -5954,8 +6014,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 802
+        "last_seen": "2026-04-19",
+        "total_flights": 803
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:58",
@@ -5999,8 +6059,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1045
+        "last_seen": "2026-04-19",
+        "total_flights": 1046
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:16",
@@ -6044,8 +6104,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1005
+        "last_seen": "2026-04-19",
+        "total_flights": 1006
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:59",
@@ -6089,8 +6149,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1012
+        "last_seen": "2026-04-19",
+        "total_flights": 1013
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:59",
@@ -6149,8 +6209,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 706
+        "last_seen": "2026-04-19",
+        "total_flights": 707
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:21",
@@ -6194,8 +6254,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 715
+        "last_seen": "2026-04-19",
+        "total_flights": 716
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:53",
@@ -6254,8 +6314,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 611
+        "last_seen": "2026-04-19",
+        "total_flights": 612
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:57",
@@ -6344,8 +6404,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 940
+        "last_seen": "2026-04-19",
+        "total_flights": 941
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -6389,8 +6449,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 864
+        "last_seen": "2026-04-19",
+        "total_flights": 865
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:56",
@@ -6434,8 +6494,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 846
+        "last_seen": "2026-04-19",
+        "total_flights": 847
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -6479,8 +6539,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1223
+        "last_seen": "2026-04-19",
+        "total_flights": 1224
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -6524,8 +6584,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1345
+        "last_seen": "2026-04-19",
+        "total_flights": 1346
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -6584,8 +6644,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1084
+        "last_seen": "2026-04-19",
+        "total_flights": 1085
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -6629,8 +6689,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 662
+        "last_seen": "2026-04-19",
+        "total_flights": 663
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:33",
@@ -6674,8 +6734,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1139
+        "last_seen": "2026-04-19",
+        "total_flights": 1140
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -6719,8 +6779,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 927
+        "last_seen": "2026-04-19",
+        "total_flights": 928
       },
       "metadata": {
         "created_at": "2026-01-30 14:32:06",
@@ -6764,8 +6824,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 1086
+        "last_seen": "2026-04-19",
+        "total_flights": 1087
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -6809,8 +6869,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-19",
-        "last_seen": "2026-04-12",
-        "total_flights": 939
+        "last_seen": "2026-04-19",
+        "total_flights": 940
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -6854,8 +6914,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 892
+        "last_seen": "2026-04-19",
+        "total_flights": 893
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:49",
@@ -6944,8 +7004,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1295
+        "last_seen": "2026-04-19",
+        "total_flights": 1296
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -6989,8 +7049,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 970
+        "last_seen": "2026-04-19",
+        "total_flights": 971
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7015,7 +7075,7 @@
         "cockpit_crew_employer": "AF"
       },
       "cabin": {
-        "physical_configuration": "J48W32Y212",
+        "physical_configuration": "J048W032Y212",
         "saleable_configuration": null,
         "total_seats": 292,
         "classes": {
@@ -7034,12 +7094,12 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1061
+        "last_seen": "2026-04-19",
+        "total_flights": 1062
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:59",
-        "updated_at": "2026-04-12T04:00:36.632Z"
+        "updated_at": "2026-04-19T04:00:36.788Z"
       },
       "history": [
         {
@@ -7047,6 +7107,13 @@
           "property": "cabin.physical_configuration",
           "old_value": "J048W032Y212",
           "new_value": "J48W32Y212",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "cabin.physical_configuration",
+          "old_value": "J48W32Y212",
+          "new_value": "J048W032Y212",
           "source": "airline_api"
         }
       ]
@@ -7068,7 +7135,7 @@
         "cockpit_crew_employer": "AF"
       },
       "cabin": {
-        "physical_configuration": "J48W32Y212",
+        "physical_configuration": "J048W032Y212",
         "saleable_configuration": null,
         "total_seats": 292,
         "classes": {
@@ -7087,12 +7154,12 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-19",
-        "last_seen": "2026-04-12",
-        "total_flights": 1284
+        "last_seen": "2026-04-19",
+        "total_flights": 1285
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
-        "updated_at": "2026-04-12T04:00:36.632Z"
+        "updated_at": "2026-04-19T04:00:36.788Z"
       },
       "history": [
         {
@@ -7114,6 +7181,13 @@
           "property": "cabin.physical_configuration",
           "old_value": "J048W032Y212",
           "new_value": "J48W32Y212",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "cabin.physical_configuration",
+          "old_value": "J48W32Y212",
+          "new_value": "J048W032Y212",
           "source": "airline_api"
         }
       ]
@@ -7154,8 +7228,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1032
+        "last_seen": "2026-04-19",
+        "total_flights": 1033
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7199,8 +7273,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1071
+        "last_seen": "2026-04-19",
+        "total_flights": 1072
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:58",
@@ -7244,8 +7318,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1102
+        "last_seen": "2026-04-19",
+        "total_flights": 1103
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7289,8 +7363,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 927
+        "last_seen": "2026-04-19",
+        "total_flights": 928
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7334,8 +7408,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 981
+        "last_seen": "2026-04-19",
+        "total_flights": 982
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7379,8 +7453,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-09",
-        "last_seen": "2026-04-12",
-        "total_flights": 759
+        "last_seen": "2026-04-19",
+        "total_flights": 760
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:55",
@@ -7424,8 +7498,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-29",
-        "last_seen": "2026-04-12",
-        "total_flights": 1147
+        "last_seen": "2026-04-19",
+        "total_flights": 1148
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7469,8 +7543,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 248
+        "last_seen": "2026-04-19",
+        "total_flights": 249
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:54",
@@ -7514,8 +7588,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 871
+        "last_seen": "2026-04-19",
+        "total_flights": 872
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -7559,8 +7633,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 969
+        "last_seen": "2026-04-19",
+        "total_flights": 970
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7604,8 +7678,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 56
+        "last_seen": "2026-04-19",
+        "total_flights": 57
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:15",
@@ -7649,8 +7723,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 872
+        "last_seen": "2026-04-19",
+        "total_flights": 873
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -7784,8 +7858,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1062
+        "last_seen": "2026-04-19",
+        "total_flights": 1063
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7829,8 +7903,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 669
+        "last_seen": "2026-04-19",
+        "total_flights": 670
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:53",
@@ -7874,8 +7948,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1248
+        "last_seen": "2026-04-19",
+        "total_flights": 1249
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:28",
@@ -7919,8 +7993,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 969
+        "last_seen": "2026-04-19",
+        "total_flights": 970
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -7979,8 +8053,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 934
+        "last_seen": "2026-04-19",
+        "total_flights": 935
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:49",
@@ -8024,8 +8098,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1080
+        "last_seen": "2026-04-19",
+        "total_flights": 1081
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -8069,8 +8143,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 153
+        "last_seen": "2026-04-19",
+        "total_flights": 154
       },
       "metadata": {
         "created_at": "2026-01-30 15:03:26",
@@ -8114,8 +8188,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1188
+        "last_seen": "2026-04-19",
+        "total_flights": 1189
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8159,8 +8233,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 1225
+        "last_seen": "2026-04-19",
+        "total_flights": 1226
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8204,8 +8278,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1098
+        "last_seen": "2026-04-19",
+        "total_flights": 1099
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:52",
@@ -8249,8 +8323,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1157
+        "last_seen": "2026-04-19",
+        "total_flights": 1158
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8339,8 +8413,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 985
+        "last_seen": "2026-04-19",
+        "total_flights": 986
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8384,8 +8458,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1304
+        "last_seen": "2026-04-19",
+        "total_flights": 1305
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8429,8 +8503,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 837
+        "last_seen": "2026-04-19",
+        "total_flights": 838
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:49",
@@ -8489,8 +8563,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-25",
-        "last_seen": "2026-04-12",
-        "total_flights": 1275
+        "last_seen": "2026-04-19",
+        "total_flights": 1276
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8549,8 +8623,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1089
+        "last_seen": "2026-04-19",
+        "total_flights": 1090
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8602,21 +8676,36 @@
         "freight_configuration": "PP010LL012"
       },
       "connectivity": {
-        "wifi": "low-speed",
-        "wifi_provider": null,
+        "wifi": "high-speed",
+        "wifi_provider": "Starlink",
         "satellite": true
       },
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 1085
+        "last_seen": "2026-04-19",
+        "total_flights": 1086
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
-        "updated_at": "2026-02-04 21:04:31"
+        "updated_at": "2026-04-19T04:00:36.788Z"
       },
-      "history": []
+      "history": [
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi",
+          "old_value": "low-speed",
+          "new_value": "high-speed",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi_provider",
+          "old_value": null,
+          "new_value": "Starlink",
+          "source": "airline_api"
+        }
+      ]
     },
     {
       "registration": "FGSQI",
@@ -8647,21 +8736,36 @@
         "freight_configuration": "PP010LL012"
       },
       "connectivity": {
-        "wifi": "low-speed",
-        "wifi_provider": null,
+        "wifi": "high-speed",
+        "wifi_provider": "Starlink",
         "satellite": true
       },
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1234
+        "last_seen": "2026-04-19",
+        "total_flights": 1235
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
-        "updated_at": "2026-02-04 21:05:07"
+        "updated_at": "2026-04-19T04:00:36.788Z"
       },
-      "history": []
+      "history": [
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi",
+          "old_value": "low-speed",
+          "new_value": "high-speed",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi_provider",
+          "old_value": null,
+          "new_value": "Starlink",
+          "source": "airline_api"
+        }
+      ]
     },
     {
       "registration": "FGSQJ",
@@ -8699,8 +8803,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-02",
-        "last_seen": "2026-04-12",
-        "total_flights": 1190
+        "last_seen": "2026-04-19",
+        "total_flights": 1191
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:57",
@@ -8759,8 +8863,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 765
+        "last_seen": "2026-04-19",
+        "total_flights": 766
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8797,19 +8901,19 @@
         "freight_configuration": "PP010LL012"
       },
       "connectivity": {
-        "wifi": "low-speed",
-        "wifi_provider": null,
+        "wifi": "high-speed",
+        "wifi_provider": "Starlink",
         "satellite": true
       },
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 6
+        "last_seen": "2026-04-19",
+        "total_flights": 7
       },
       "metadata": {
         "created_at": "2026-01-30 16:31:06",
-        "updated_at": "2026-04-05T04:00:36.506Z"
+        "updated_at": "2026-04-19T04:00:36.787Z"
       },
       "history": [
         {
@@ -8824,6 +8928,20 @@
           "property": "operator.sub_fleet_code",
           "old_value": "AB",
           "new_value": "EB",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi",
+          "old_value": "low-speed",
+          "new_value": "high-speed",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi_provider",
+          "old_value": null,
+          "new_value": "Starlink",
           "source": "airline_api"
         }
       ]
@@ -8864,8 +8982,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 810
+        "last_seen": "2026-04-19",
+        "total_flights": 811
       },
       "metadata": {
         "created_at": "2026-01-30 14:31:09",
@@ -8909,8 +9027,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1090
+        "last_seen": "2026-04-19",
+        "total_flights": 1091
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -8954,8 +9072,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1189
+        "last_seen": "2026-04-19",
+        "total_flights": 1190
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:58",
@@ -9044,8 +9162,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1043
+        "last_seen": "2026-04-19",
+        "total_flights": 1044
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -9134,8 +9252,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 948
+        "last_seen": "2026-04-19",
+        "total_flights": 949
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -9179,8 +9297,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 994
+        "last_seen": "2026-04-19",
+        "total_flights": 995
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -9224,8 +9342,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1146
+        "last_seen": "2026-04-19",
+        "total_flights": 1147
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -9269,8 +9387,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-05",
-        "total_flights": 1102
+        "last_seen": "2026-04-19",
+        "total_flights": 1103
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -9427,21 +9545,36 @@
         "freight_configuration": "PP010LL012"
       },
       "connectivity": {
-        "wifi": "low-speed",
-        "wifi_provider": null,
+        "wifi": "high-speed",
+        "wifi_provider": "Starlink",
         "satellite": true
       },
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 112
+        "last_seen": "2026-04-19",
+        "total_flights": 113
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
-        "updated_at": "2026-01-31 22:46:50"
+        "updated_at": "2026-04-19T04:00:36.782Z"
       },
-      "history": []
+      "history": [
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi",
+          "old_value": "low-speed",
+          "new_value": "high-speed",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "connectivity.wifi_provider",
+          "old_value": null,
+          "new_value": "Starlink",
+          "source": "airline_api"
+        }
+      ]
     },
     {
       "registration": "FGZNC",
@@ -9479,8 +9612,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1046
+        "last_seen": "2026-04-19",
+        "total_flights": 1047
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:53",
@@ -9598,8 +9731,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2026-01-26",
-        "last_seen": "2026-04-12",
-        "total_flights": 1023
+        "last_seen": "2026-04-19",
+        "total_flights": 1024
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -9703,8 +9836,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1126
+        "last_seen": "2026-04-19",
+        "total_flights": 1127
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -9724,19 +9857,19 @@
         "full_name": "BOEING 777-300ER"
       },
       "operator": {
-        "sub_fleet_code": "DB",
+        "sub_fleet_code": "EB",
         "cabin_crew_employer": "AF",
         "cockpit_crew_employer": "AF"
       },
       "cabin": {
-        "physical_configuration": "J048W048Y273",
+        "physical_configuration": "P004J060W044Y204",
         "saleable_configuration": null,
-        "total_seats": 369,
+        "total_seats": 312,
         "classes": {
-          "first": 0,
-          "business": 48,
-          "premium_economy": 48,
-          "economy": 273
+          "first": 4,
+          "business": 60,
+          "premium_economy": 44,
+          "economy": 204
         },
         "freight_configuration": "PP010LL014"
       },
@@ -9748,14 +9881,29 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-01-03",
-        "total_flights": 17
+        "last_seen": "2026-04-19",
+        "total_flights": 18
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
-        "updated_at": "2026-01-30 16:45:35"
+        "updated_at": "2026-04-19T04:00:36.782Z"
       },
-      "history": []
+      "history": [
+        {
+          "timestamp": "2026-04-19",
+          "property": "cabin.physical_configuration",
+          "old_value": "J048W048Y273",
+          "new_value": "P004J060W044Y204",
+          "source": "airline_api"
+        },
+        {
+          "timestamp": "2026-04-19",
+          "property": "operator.sub_fleet_code",
+          "old_value": "DB",
+          "new_value": "EB",
+          "source": "airline_api"
+        }
+      ]
     },
     {
       "registration": "FGZNI",
@@ -9793,8 +9941,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 835
+        "last_seen": "2026-04-19",
+        "total_flights": 836
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -9838,8 +9986,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 961
+        "last_seen": "2026-04-19",
+        "total_flights": 962
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -9928,8 +10076,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 986
+        "last_seen": "2026-04-19",
+        "total_flights": 987
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -9973,8 +10121,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-03-29",
-        "total_flights": 807
+        "last_seen": "2026-04-19",
+        "total_flights": 808
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -10018,8 +10166,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 302
+        "last_seen": "2026-04-19",
+        "total_flights": 303
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:53",
@@ -10063,8 +10211,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 448
+        "last_seen": "2026-04-19",
+        "total_flights": 449
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -10108,8 +10256,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 697
+        "last_seen": "2026-04-19",
+        "total_flights": 698
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:49",
@@ -10198,8 +10346,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 979
+        "last_seen": "2026-04-19",
+        "total_flights": 980
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -10333,8 +10481,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 827
+        "last_seen": "2026-04-19",
+        "total_flights": 828
       },
       "metadata": {
         "created_at": "2026-01-30 15:03:33",
@@ -10378,8 +10526,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 24
+        "last_seen": "2026-04-19",
+        "total_flights": 25
       },
       "metadata": {
         "created_at": "2026-01-30 16:16:43",
@@ -10468,8 +10616,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-12",
-        "total_flights": 854
+        "last_seen": "2026-04-19",
+        "total_flights": 855
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -10513,8 +10661,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-27",
-        "last_seen": "2026-04-05",
-        "total_flights": 1138
+        "last_seen": "2026-04-19",
+        "total_flights": 1139
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:51",
@@ -10558,8 +10706,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1216
+        "last_seen": "2026-04-19",
+        "total_flights": 1217
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -10603,8 +10751,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 1024
+        "last_seen": "2026-04-19",
+        "total_flights": 1025
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -10648,8 +10796,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 902
+        "last_seen": "2026-04-19",
+        "total_flights": 903
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:50",
@@ -10738,8 +10886,8 @@
       "status": "active",
       "tracking": {
         "first_seen": "2025-12-20",
-        "last_seen": "2026-04-12",
-        "total_flights": 966
+        "last_seen": "2026-04-19",
+        "total_flights": 967
       },
       "metadata": {
         "created_at": "2026-01-30 14:30:54",
