@@ -8,15 +8,15 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Airline | Total | 📶 WiFi | 🛜 High-Speed | % Starlink |
 |---------|-------|---------|---------------|------------|
-| 🇫🇷 Air France | 230 | 228 (99%) | 115 | **50%** |
+| 🇫🇷 Air France | 230 | 227 (99%) | 115 | **50%** |
 | 🇳🇱 KLM | 127 | 104 (82%) | 0 | **0%** |
-| **Combined** | **357** | **332 (93%)** | **115** | **32%** |
+| **Combined** | **357** | **331 (93%)** | **115** | **32%** |
 
 
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-07-19*
+*Last updated: 2026-07-26*
 
 ---
 
