@@ -8,15 +8,15 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Airline | Total | 📶 WiFi | 🛜 High-Speed | % Starlink |
 |---------|-------|---------|---------------|------------|
-| 🇫🇷 Air France | 231 | 228 (99%) | 116 | **50%** |
+| 🇫🇷 Air France | 231 | 229 (99%) | 119 | **52%** |
 | 🇳🇱 KLM | 127 | 104 (82%) | 0 | **0%** |
-| **Combined** | **358** | **332 (93%)** | **116** | **32%** |
+| **Combined** | **358** | **333 (93%)** | **119** | **33%** |
 
 
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-08-02*
+*Last updated: 2026-08-09*
 
 ---
 
@@ -68,10 +68,10 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 777-200-200ER | `J028W032Y268` | 328 | 18 | - |
 | 777-300ER | `J014W028Y430` | 472 | 12 | 3/12 (25%) |
 | 777-300ER | `J048W048Y273` | 369 | 4 | 4/4 (100%) |
-| 777-300ER | `P004J058W028Y206` | 296 | 11 | 10/11 (91%) |
-| 777-300ER | `P004J060W044Y204` | 312 | 16 | 16/16 (100%) |
+| 777-300ER | `P004J058W028Y206` | 296 | 10 | 10/10 (100%) |
+| 777-300ER | `P004J060W044Y204` | 312 | 17 | 17/17 (100%) |
 | 787-9 | `J030W021Y228` | 279 | 10 | - |
-| A220-300 PASSENGER | `Y148` | 148 | 54 | 45/54 (83%) |
+| A220-300 PASSENGER | `Y148` | 148 | 54 | 47/54 (87%) |
 | A318 | `Y131` | 131 | 4 | - |
 | A319 | `C072Y071` | 143 | 2 | - |
 | A319 | `Y142` | 142 | 1 | - |
