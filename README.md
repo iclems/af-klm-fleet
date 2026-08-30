@@ -16,7 +16,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-08-30*
 
 ---
 
