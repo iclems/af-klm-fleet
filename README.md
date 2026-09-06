@@ -16,7 +16,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-08-30*
+*Last updated: 2026-09-06*
 
 ---
 
@@ -96,7 +96,8 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 777-200-200ER | `C035W032M219` | 286 | 15 | - |
 | 777-300ER | `C035W024M322` | 381 | 16 | - |
 | 787-10 | `C038W028M252` | 318 | 15 | - |
-| 787-9 | `C030W021M224` | 275 | 13 | - |
+| 787-9 | `C030W021M224` | 275 | 12 | - |
+| 787-9 | `C30W21M224` | 275 | 1 | - |
 | A321NEO | `C030M197` | 227 | 17 | - |
 | A330-200 | `C018M246` | 264 | 6 | - |
 | A330-300 | `C030M262` | 292 | 5 | - |
