@@ -8,15 +8,15 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Airline | Total | 📶 WiFi | 🛜 High-Speed | % Starlink |
 |---------|-------|---------|---------------|------------|
-| 🇫🇷 Air France | 231 | 229 (99%) | 119 | **52%** |
+| 🇫🇷 Air France | 231 | 229 (99%) | 121 | **52%** |
 | 🇳🇱 KLM | 127 | 104 (82%) | 0 | **0%** |
-| **Combined** | **358** | **333 (93%)** | **119** | **33%** |
+| **Combined** | **358** | **333 (93%)** | **121** | **34%** |
 
 
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-09-06*
+*Last updated: 2026-09-13*
 
 ---
 
@@ -66,12 +66,13 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | Aircraft | Config | Seats | Count | 🛜 Starlink |
 |----------|--------|-------|-------|-------------|
 | 777-200-200ER | `J028W032Y268` | 328 | 18 | - |
-| 777-300ER | `J014W028Y430` | 472 | 12 | 3/12 (25%) |
+| 777-300ER | `J014W028Y430` | 472 | 12 | 4/12 (33%) |
 | 777-300ER | `J048W048Y273` | 369 | 4 | 4/4 (100%) |
 | 777-300ER | `P004J058W028Y206` | 296 | 9 | 9/9 (100%) |
 | 777-300ER | `P004J060W044Y204` | 312 | 18 | 18/18 (100%) |
-| 787-9 | `J030W021Y228` | 279 | 10 | - |
-| A220-300 PASSENGER | `Y148` | 148 | 54 | 47/54 (87%) |
+| 787-9 | `J030W021Y228` | 279 | 9 | - |
+| 787-9 | `J30W21Y228` | 279 | 1 | - |
+| A220-300 PASSENGER | `Y148` | 148 | 54 | 48/54 (89%) |
 | A318 | `Y131` | 131 | 4 | - |
 | A319 | `C072Y071` | 143 | 2 | - |
 | A319 | `Y142` | 142 | 1 | - |
@@ -96,8 +97,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 777-200-200ER | `C035W032M219` | 286 | 15 | - |
 | 777-300ER | `C035W024M322` | 381 | 16 | - |
 | 787-10 | `C038W028M252` | 318 | 15 | - |
-| 787-9 | `C030W021M224` | 275 | 12 | - |
-| 787-9 | `C30W21M224` | 275 | 1 | - |
+| 787-9 | `C030W021M224` | 275 | 13 | - |
 | A321NEO | `C030M197` | 227 | 17 | - |
 | A330-200 | `C018M246` | 264 | 6 | - |
 | A330-300 | `C030M262` | 292 | 5 | - |
