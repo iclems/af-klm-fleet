@@ -16,7 +16,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-10-04*
+*Last updated: 2026-10-07*
 
 ---
 
@@ -24,36 +24,36 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 ### 🇫🇷 Air France (AF)
 
-| Aircraft Type | Count |
-|---------------|-------|
-| A220-300 PASSENGER | 54 |
-| A350-900 | 43 |
-| 777-300ER | 43 |
-| A320 | 30 |
-| 777-200-200ER | 18 |
-| A321 | 12 |
-| 787-9 | 10 |
-| A330-200 | 8 |
-| A320 (SHARKLETS) | 6 |
-| A318 | 4 |
-| A319 | 3 |
-| **Total** | **231** |
+| Aircraft Type | Count | % Starlink |
+|---------------|-------|------------|
+| A220-300 PASSENGER | 54 | 47/54 (87%) |
+| A350-900 | 43 | 33/43 (77%) |
+| 777-300ER | 43 | 37/43 (86%) |
+| A320 | 30 | 4/30 (13%) |
+| 777-200-200ER | 18 | - |
+| A321 | 12 | - |
+| 787-9 | 10 | - |
+| A330-200 | 8 | 1/8 (13%) |
+| A320 (SHARKLETS) | 6 | 1/6 (17%) |
+| A318 | 4 | - |
+| A319 | 3 | - |
+| **Total** | **231** | **123/231 (53%)** |
 
 ### 🇳🇱 KLM (KL)
 
-| Aircraft Type | Count |
-|---------------|-------|
-| 737-800 | 29 |
-| A321NEO | 17 |
-| 777-300ER | 16 |
-| 777-200-200ER | 15 |
-| 787-10 | 15 |
-| 787-9 | 13 |
-| A330-200 | 6 |
-| 737-700 | 6 |
-| A330-300 | 5 |
-| 737-900 | 5 |
-| **Total** | **127** |
+| Aircraft Type | Count | % Starlink |
+|---------------|-------|------------|
+| 737-800 | 29 | - |
+| A321NEO | 17 | - |
+| 777-300ER | 16 | - |
+| 777-200-200ER | 15 | - |
+| 787-10 | 15 | - |
+| 787-9 | 13 | - |
+| A330-200 | 6 | - |
+| 737-700 | 6 | - |
+| A330-300 | 5 | - |
+| 737-900 | 5 | - |
+| **Total** | **127** | **0/127 (0%)** |
 
 
 

@@ -37,28 +37,43 @@ function loadAirlines() {
 }
 
 // Get fleet breakdown by type
+function simplifyTypeName(typeName) {
+  return (typeName || 'Unknown')
+    .replace('AIRBUS ', '')
+    .replace('BOEING ', '')
+    .replace(' (WINGLETS) PASSENGER/BBJ1', '')
+    .replace(' (WINGLETS) PASSENGER/BBJ2', '')
+    .replace(' (WINGLETS) PASSENGER/BBJ3', '')
+    .replace('/200 ER', '-200ER')
+    .replace('-200/200 ER', '-200ER')
+    .trim();
+}
+
+function formatStarlink(highSpeed, count) {
+  if (!highSpeed) return '-';
+  const pct = count ? Math.round(highSpeed / count * 100) : 0;
+  return `${highSpeed}/${count} (${pct}%)`;
+}
+
+// Get fleet breakdown by type
 function getFleetBreakdown(aircraft) {
   const breakdown = {};
   
   for (const a of aircraft) {
-    const typeName = a.aircraft_type?.full_name || 'Unknown';
-    // Simplify type name
-    let simpleType = typeName
-      .replace('AIRBUS ', '')
-      .replace('BOEING ', '')
-      .replace(' (WINGLETS) PASSENGER/BBJ1', '')
-      .replace(' (WINGLETS) PASSENGER/BBJ2', '')
-      .replace(' (WINGLETS) PASSENGER/BBJ3', '')
-      .replace('/200 ER', '-200ER')
-      .replace('-200/200 ER', '-200ER')
-      .trim();
+    const simpleType = simplifyTypeName(a.aircraft_type?.full_name);
     
-    breakdown[simpleType] = (breakdown[simpleType] || 0) + 1;
+    if (!breakdown[simpleType]) {
+      breakdown[simpleType] = { count: 0, highSpeed: 0 };
+    }
+    breakdown[simpleType].count++;
+    if ((a.connectivity?.wifi || 'none') === 'high-speed') {
+      breakdown[simpleType].highSpeed++;
+    }
   }
   
   // Sort by count descending
   return Object.entries(breakdown)
-    .sort((a, b) => b[1] - a[1]);
+    .sort((a, b) => b[1].count - a[1].count);
 }
 
 // Get WiFi stats
@@ -92,14 +107,17 @@ function generateFleetTable(airlines) {
     const wifi = getWifiStats(data.aircraft);
     
     md += `### ${info.flag} ${info.name} (${code})\n\n`;
-    md += `| Aircraft Type | Count |\n`;
-    md += `|---------------|-------|\n`;
+    md += `| Aircraft Type | Count | % Starlink |\n`;
+    md += `|---------------|-------|------------|\n`;
     
-    for (const [type, count] of breakdown) {
-      md += `| ${type} | ${count} |\n`;
+    for (const [type, stats] of breakdown) {
+      md += `| ${type} | ${stats.count} | ${formatStarlink(stats.highSpeed, stats.count)} |\n`;
     }
     
-    md += `| **Total** | **${wifi.total}** |\n\n`;
+    const totalStarlink = wifi.highSpeed
+      ? formatStarlink(wifi.highSpeed, wifi.total)
+      : `0/${wifi.total} (0%)`;
+    md += `| **Total** | **${wifi.total}** | **${totalStarlink}** |\n\n`;
   }
   
   return md;
@@ -110,17 +128,7 @@ function getDetailedBreakdown(aircraft) {
   const breakdown = {};
   
   for (const a of aircraft) {
-    const typeName = a.aircraft_type?.full_name || 'Unknown';
-    // Simplify type name
-    let simpleType = typeName
-      .replace('AIRBUS ', '')
-      .replace('BOEING ', '')
-      .replace(' (WINGLETS) PASSENGER/BBJ1', '')
-      .replace(' (WINGLETS) PASSENGER/BBJ2', '')
-      .replace(' (WINGLETS) PASSENGER/BBJ3', '')
-      .replace('/200 ER', '-200ER')
-      .replace('-200/200 ER', '-200ER')
-      .trim();
+    const simpleType = simplifyTypeName(a.aircraft_type?.full_name);
     
     const config = a.cabin?.physical_configuration || '-';
     const wifi = a.connectivity?.wifi || 'none';
@@ -167,10 +175,7 @@ function generateDetailedFleetTable(airlines) {
     md += `|----------|--------|-------|-------|-------------|\n`;
     
     for (const item of breakdown) {
-      const starlinkInfo = item.highSpeed > 0 
-        ? `${item.highSpeed}/${item.count} (${Math.round(item.highSpeed / item.count * 100)}%)`
-        : '-';
-      md += `| ${item.type} | \`${item.config}\` | ${item.seats || '-'} | ${item.count} | ${starlinkInfo} |\n`;
+      md += `| ${item.type} | \`${item.config}\` | ${item.seats || '-'} | ${item.count} | ${formatStarlink(item.highSpeed, item.count)} |\n`;
     }
     
     md += `\n`;
