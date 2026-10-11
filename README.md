@@ -8,15 +8,15 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Airline | Total | 📶 WiFi | 🛜 High-Speed | % Starlink |
 |---------|-------|---------|---------------|------------|
-| 🇫🇷 Air France | 231 | 227 (98%) | 123 | **53%** |
-| 🇳🇱 KLM | 127 | 104 (82%) | 0 | **0%** |
-| **Combined** | **358** | **331 (92%)** | **123** | **34%** |
+| 🇫🇷 Air France | 232 | 228 (98%) | 125 | **54%** |
+| 🇳🇱 KLM | 128 | 105 (82%) | 0 | **0%** |
+| **Combined** | **360** | **333 (93%)** | **125** | **35%** |
 
 
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-10-07*
+*Last updated: 2026-10-11*
 
 ---
 
@@ -26,9 +26,9 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Aircraft Type | Count | % Starlink |
 |---------------|-------|------------|
-| A220-300 PASSENGER | 54 | 47/54 (87%) |
-| A350-900 | 43 | 33/43 (77%) |
-| 777-300ER | 43 | 37/43 (86%) |
+| A220-300 PASSENGER | 55 | 47/55 (85%) |
+| A350-900 | 43 | 34/43 (79%) |
+| 777-300ER | 43 | 38/43 (88%) |
 | A320 | 30 | 4/30 (13%) |
 | 777-200-200ER | 18 | - |
 | A321 | 12 | - |
@@ -37,14 +37,14 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | A320 (SHARKLETS) | 6 | 1/6 (17%) |
 | A318 | 4 | - |
 | A319 | 3 | - |
-| **Total** | **231** | **123/231 (53%)** |
+| **Total** | **232** | **125/232 (54%)** |
 
 ### 🇳🇱 KLM (KL)
 
 | Aircraft Type | Count | % Starlink |
 |---------------|-------|------------|
 | 737-800 | 29 | - |
-| A321NEO | 17 | - |
+| A321NEO | 18 | - |
 | 777-300ER | 16 | - |
 | 777-200-200ER | 15 | - |
 | 787-10 | 15 | - |
@@ -53,7 +53,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 737-700 | 6 | - |
 | A330-300 | 5 | - |
 | 737-900 | 5 | - |
-| **Total** | **127** | **0/127 (0%)** |
+| **Total** | **128** | **0/128 (0%)** |
 
 
 
@@ -66,12 +66,12 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | Aircraft | Config | Seats | Count | 🛜 Starlink |
 |----------|--------|-------|-------|-------------|
 | 777-200-200ER | `J028W032Y268` | 328 | 18 | - |
-| 777-300ER | `J014W028Y430` | 472 | 12 | 6/12 (50%) |
+| 777-300ER | `J014W028Y430` | 472 | 12 | 7/12 (58%) |
 | 777-300ER | `J048W048Y273` | 369 | 4 | 4/4 (100%) |
 | 777-300ER | `P004J058W028Y206` | 296 | 9 | 9/9 (100%) |
 | 777-300ER | `P004J060W044Y204` | 312 | 18 | 18/18 (100%) |
 | 787-9 | `J030W021Y228` | 279 | 10 | - |
-| A220-300 PASSENGER | `Y148` | 148 | 54 | 47/54 (87%) |
+| A220-300 PASSENGER | `Y148` | 148 | 55 | 47/55 (85%) |
 | A318 | `Y131` | 131 | 4 | - |
 | A319 | `C072Y071` | 143 | 2 | - |
 | A319 | `Y142` | 142 | 1 | - |
@@ -84,7 +84,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | A350-900 | `J034W024Y266` | 324 | 9 | 5/9 (56%) |
 | A350-900 | `J034W024Y267` | 325 | 11 | 11/11 (100%) |
 | A350-900 | `J048W032Y210` | 290 | 3 | 1/3 (33%) |
-| A350-900 | `J048W032Y212` | 292 | 20 | 16/20 (80%) |
+| A350-900 | `J048W032Y212` | 292 | 20 | 17/20 (85%) |
 
 ### 🇳🇱 KLM — Detailed Configuration
 
@@ -98,7 +98,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | 777-300ER | `C035W024M322` | 381 | 16 | - |
 | 787-10 | `C038W028M252` | 318 | 15 | - |
 | 787-9 | `C030W021M224` | 275 | 13 | - |
-| A321NEO | `C030M197` | 227 | 17 | - |
+| A321NEO | `C030M197` | 227 | 18 | - |
 | A330-200 | `C018M246` | 264 | 6 | - |
 | A330-300 | `C030M262` | 292 | 5 | - |
 
