@@ -8,15 +8,15 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Airline | Total | 📶 WiFi | 🛜 High-Speed | % Starlink |
 |---------|-------|---------|---------------|------------|
-| 🇫🇷 Air France | 234 | 228 (97%) | 130 | **56%** |
+| 🇫🇷 Air France | 234 | 228 (97%) | 131 | **56%** |
 | 🇳🇱 KLM | 129 | 106 (82%) | 0 | **0%** |
-| **Combined** | **363** | **334 (92%)** | **130** | **36%** |
+| **Combined** | **363** | **334 (92%)** | **131** | **36%** |
 
 
 > 🛜 **High-Speed** = Starlink satellite internet (50+ Mbps)  
 > 📶 **WiFi** = Any WiFi connectivity (low-speed or high-speed)
 
-*Last updated: 2026-11-15*
+*Last updated: 2026-11-22*
 
 ---
 
@@ -29,7 +29,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | A220-300 PASSENGER | 57 | 47/57 (82%) |
 | A350-900 | 43 | 35/43 (81%) |
 | 777-300ER | 43 | 38/43 (88%) |
-| A320 | 30 | 6/30 (20%) |
+| A320 | 30 | 7/30 (23%) |
 | 777-200-200ER | 18 | - |
 | A321 | 12 | - |
 | 787-9 | 10 | - |
@@ -37,7 +37,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | A320 (SHARKLETS) | 6 | 3/6 (50%) |
 | A318 | 4 | - |
 | A319 | 3 | - |
-| **Total** | **234** | **130/234 (56%)** |
+| **Total** | **234** | **131/234 (56%)** |
 
 ### 🇳🇱 KLM (KL)
 
@@ -66,7 +66,8 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 
 | Aircraft | Config | Seats | Count | 🛜 Starlink |
 |----------|--------|-------|-------|-------------|
-| 777-200-200ER | `J028W032Y268` | 328 | 18 | - |
+| 777-200-200ER | `J028W032Y268` | 328 | 17 | - |
+| 777-200-200ER | `J28W32Y268` | 328 | 1 | - |
 | 777-300ER | `J014W028Y430` | 472 | 12 | 7/12 (58%) |
 | 777-300ER | `J048W048Y273` | 369 | 4 | 4/4 (100%) |
 | 777-300ER | `P004J058W028Y206` | 296 | 7 | 7/7 (100%) |
@@ -76,7 +77,7 @@ Open source, community-maintained catalog of **Air France** and **KLM** fleets w
 | A318 | `Y131` | 131 | 4 | - |
 | A319 | `C072Y071` | 143 | 2 | - |
 | A319 | `Y142` | 142 | 1 | - |
-| A320 | `C108Y066` | 174 | 23 | 5/23 (22%) |
+| A320 | `C108Y066` | 174 | 23 | 6/23 (26%) |
 | A320 | `Y178` | 178 | 7 | 1/7 (14%) |
 | A320 (SHARKLETS) | `C108Y066` | 174 | 6 | 3/6 (50%) |
 | A321 | `C082Y130` | 212 | 8 | - |
